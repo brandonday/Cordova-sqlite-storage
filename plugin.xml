@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<gap:plugin name="com.brodysoft.sqliteplugin" version="1.0.6" />
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="io.litehelpers.cordova.sqlite"
